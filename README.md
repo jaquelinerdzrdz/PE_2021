@@ -12,5 +12,5 @@ Semana 2
 + 11.02.2021 Primeros pasos de como utilizar RStudio
 
 Semana 3
-+ 17.02.2021
++ 17.02.2021 Laboratorio 1
 + 18.02.2021 

@@ -9,7 +9,7 @@ Notas y Bitácora de trabajo de la materia Principios de estadística 2021
 
 Semana 2
 + 10.02.2021 Asignacion de las primeras dos tareas, y por equipos se realizo una actividad
-+ 11.02.2021 Practicamos con los programas de RStudio
++ 11.02.2021 Primeros pasos de como utilizar RStudio
 
 Semana 3
 + 17.02.2021

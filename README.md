@@ -22,3 +22,7 @@ Semana 4
 Semana 5
 + 03.03.2021 Solucion a Laboratorio 3
 + 04.03.2021 Continuacion de solucion del Laboratorio 3
+
+Semana 6
++ 10.03.2021
++ 11.03.2021

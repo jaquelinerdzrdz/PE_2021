@@ -38,3 +38,6 @@ Semana 8
 Semana 9
 + 14.04.2021 Explicacion de la linea de regresion 
 + 15.04.2021 No hubo clases
+
+Semana 10
++ 21.04.2021 Continuacion analisis de regresion y los tipos de graficas

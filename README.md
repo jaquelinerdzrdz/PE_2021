@@ -42,3 +42,6 @@ Semana 9
 Semana 10
 + 21.04.2021 Continuacion analisis de regresion y los tipos de graficas
 + 22.04.2021 Realizacion del script canopy
+
+Semana 11
++ 28.04.2021 Normalidad de datos

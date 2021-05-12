@@ -46,3 +46,7 @@ Semana 10
 Semana 11
 + 28.04.2021 Normalidad de datos
 + 29.04.2021 Hipotesis nula y alternativa
+
+Semana 12
++  05.05.2021 No hubo clase
++  06.05.2021 No  hubo clase

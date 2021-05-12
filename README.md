@@ -45,3 +45,4 @@ Semana 10
 
 Semana 11
 + 28.04.2021 Normalidad de datos
++ 29.04.2021 Hipotesis nula y alternativa

@@ -33,3 +33,4 @@ Semana 7
 
 Semana 8
 + 24.03.2021 Continuacion explicacion de correlacion 
++ 25.03.2021 Examen de lo visto en clases pasadas

@@ -44,9 +44,8 @@ Semana 10
 + 22.04.2021 Realizacion del script canopy
 
 Semana 11
-+ 28.04.2021 Normalidad de datos
++ 28.04.2021 Normalidad de  homogeinidad y varianza
 + 29.04.2021 Hipotesis nula y alternativa
 
 Semana 12
-+  05.05.2021 No hubo clase
-+  06.05.2021 No  hubo clase
++ 12.05.2021 Prueba de T de una muestra

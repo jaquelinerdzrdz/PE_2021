@@ -25,4 +25,4 @@ Semana 5
 
 Semana 6
 + 10.03.2021 Resumen graficos de un conjunto grafico
-+ 11.03.2021
++ 11.03.2021 Histogramas, barplot  y pie

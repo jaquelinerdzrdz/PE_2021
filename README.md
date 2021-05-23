@@ -49,3 +49,8 @@ Semana 11
 
 Semana 12
 + 12.05.2021 Prueba de T de una muestra
++ 13.05.2021 Prueba de T dos muestras indepen
+
+Semana 13
++ 19.05.2021 Pruebas de T dependientes
++ 20.05.2021 Fin de Cursos
